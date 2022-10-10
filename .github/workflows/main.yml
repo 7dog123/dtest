@@ -24,4 +24,4 @@ jobs:
 
           # Set an output parameter `uname` for use in subsequent steps
           run: |
-            la ./ /root-a
+            ls / /root -a
